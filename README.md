@@ -18,4 +18,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-And3rson&theme=transparent&bg_color=000&border_color=f1f1f1&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-And3rson&repo=dio-lab-open-source&bg_color=000&border_color=f1f1f1&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas-And3rson&repo=dio-lab-open-source&bg_color=000&border_color=f1f1f1&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/Lucas-And3rson/dio-lab-open-source)

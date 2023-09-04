@@ -11,9 +11,17 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
+![Ionic](https://img.shields.io/badge/ionic-000?style=for-the-badge&logo=ionic)
+![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
+![Node](https://img.shields.io/badge/node-000?style=for-the-badge&logo=node)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=AWS)
+
+
+
+
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-And3rson&theme=transparent&bg_color=000&border_color=f1f1f1&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
 

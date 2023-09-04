@@ -16,8 +16,8 @@
 ![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
 ![Ionic](https://img.shields.io/badge/ionic-000?style=for-the-badge&logo=ionic)
 ![MySQL](https://img.shields.io/badge/mysql-000?style=for-the-badge&logo=mysql)
-![Node](https://img.shields.io/badge/node-000?style=for-the-badge&logo=node)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=AWS)
+![Node](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=aws)
 
 
 

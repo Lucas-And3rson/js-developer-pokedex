@@ -127,6 +127,20 @@
     height: 70px;
 }
 
+.details{
+    background-color: #fff;
+    border: none;
+    transition: transform .8s;
+}
+
+.details:hover{
+    transform: scale(1.1);
+}
+
+#show{
+    background-color: #000;
+}
+
 .pagination {
     display: flex;
     flex-direction: row;
